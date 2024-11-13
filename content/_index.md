@@ -47,4 +47,6 @@ content_blocks:
     layout:
       align: ''
       vertical_space: ''
+  - _bookshop_name: generic/heading
+    text: Hello World!
 ---
